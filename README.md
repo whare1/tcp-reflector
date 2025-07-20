@@ -18,7 +18,7 @@ A lightweight, interactive TCP proxy written in Python. It allows you to forward
 ## 📦 Usage
 
 ```bash
-python3 proxy.py
+python3 tcp-reflector.py
 ```
 
 You will be prompted for:
